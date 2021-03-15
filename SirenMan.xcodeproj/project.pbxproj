@@ -13,6 +13,12 @@
 		B803F7AC25FF9C69004D2A44 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B803F7AA25FF9C69004D2A44 /* Main.storyboard */; };
 		B803F7AE25FF9C69004D2A44 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B803F7AD25FF9C69004D2A44 /* Assets.xcassets */; };
 		B803F7B125FF9C69004D2A44 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B803F7AF25FF9C69004D2A44 /* LaunchScreen.storyboard */; };
+		B803F7D225FFA90F004D2A44 /* Police Radio Chatter - Sound Effect for Editing.wav in Resources */ = {isa = PBXBuildFile; fileRef = B803F7D125FFA90F004D2A44 /* Police Radio Chatter - Sound Effect for Editing.wav */; };
+		B8E1E6C925FFD06200E19CCF /* PRIMARY_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = B8E1E6C825FFD06200E19CCF /* PRIMARY_1.wav */; };
+		B8E1E6CC25FFD34100E19CCF /* RUMBLER_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = B8E1E6C325FFCFC500E19CCF /* RUMBLER_1.wav */; };
+		B8E1E6CF25FFD54D00E19CCF /* AIRHORN_EQD.wav in Resources */ = {isa = PBXBuildFile; fileRef = B8E1E6CE25FFD54D00E19CCF /* AIRHORN_EQD.wav */; };
+		B8E1E6D225FFD5A100E19CCF /* SIREN_PA20A_WAIL.wav in Resources */ = {isa = PBXBuildFile; fileRef = B8E1E6D125FFD5A100E19CCF /* SIREN_PA20A_WAIL.wav */; };
+		B8E1E6D525FFD8D000E19CCF /* LCPDFR_MOVEITFOLKS_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = B8E1E6D425FFD8D000E19CCF /* LCPDFR_MOVEITFOLKS_1.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +30,12 @@
 		B803F7AD25FF9C69004D2A44 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B803F7B025FF9C69004D2A44 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B803F7B225FF9C69004D2A44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B803F7D125FFA90F004D2A44 /* Police Radio Chatter - Sound Effect for Editing.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Police Radio Chatter - Sound Effect for Editing.wav"; sourceTree = "<group>"; };
+		B8E1E6C325FFCFC500E19CCF /* RUMBLER_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = RUMBLER_1.wav; path = "../../../Downloads/MODERN SIREN PACK - 3.1.1/CODE 3 PSE/Code 3 RLS - UPDATED -/RUMBLER/RUMBLER_1.wav"; sourceTree = "<group>"; };
+		B8E1E6C825FFD06200E19CCF /* PRIMARY_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = PRIMARY_1.wav; sourceTree = "<group>"; };
+		B8E1E6CE25FFD54D00E19CCF /* AIRHORN_EQD.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = AIRHORN_EQD.wav; sourceTree = "<group>"; };
+		B8E1E6D125FFD5A100E19CCF /* SIREN_PA20A_WAIL.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SIREN_PA20A_WAIL.wav; sourceTree = "<group>"; };
+		B8E1E6D425FFD8D000E19CCF /* LCPDFR_MOVEITFOLKS_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = LCPDFR_MOVEITFOLKS_1.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +73,13 @@
 				B803F7A825FF9C69004D2A44 /* ViewController.swift */,
 				B803F7AA25FF9C69004D2A44 /* Main.storyboard */,
 				B803F7AD25FF9C69004D2A44 /* Assets.xcassets */,
+				B8E1E6C325FFCFC500E19CCF /* RUMBLER_1.wav */,
+				B8E1E6D125FFD5A100E19CCF /* SIREN_PA20A_WAIL.wav */,
+				B8E1E6C825FFD06200E19CCF /* PRIMARY_1.wav */,
+				B8E1E6D425FFD8D000E19CCF /* LCPDFR_MOVEITFOLKS_1.wav */,
+				B8E1E6CE25FFD54D00E19CCF /* AIRHORN_EQD.wav */,
 				B803F7AF25FF9C69004D2A44 /* LaunchScreen.storyboard */,
+				B803F7D125FFA90F004D2A44 /* Police Radio Chatter - Sound Effect for Editing.wav */,
 				B803F7B225FF9C69004D2A44 /* Info.plist */,
 			);
 			path = SirenMan;
@@ -124,8 +142,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8E1E6D225FFD5A100E19CCF /* SIREN_PA20A_WAIL.wav in Resources */,
+				B8E1E6D525FFD8D000E19CCF /* LCPDFR_MOVEITFOLKS_1.wav in Resources */,
+				B8E1E6CC25FFD34100E19CCF /* RUMBLER_1.wav in Resources */,
 				B803F7B125FF9C69004D2A44 /* LaunchScreen.storyboard in Resources */,
+				B8E1E6CF25FFD54D00E19CCF /* AIRHORN_EQD.wav in Resources */,
+				B803F7D225FFA90F004D2A44 /* Police Radio Chatter - Sound Effect for Editing.wav in Resources */,
 				B803F7AE25FF9C69004D2A44 /* Assets.xcassets in Resources */,
+				B8E1E6C925FFD06200E19CCF /* PRIMARY_1.wav in Resources */,
 				B803F7AC25FF9C69004D2A44 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -289,14 +313,15 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = BYK3FT7TFH;
 				INFOPLIST_FILE = SirenMan/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.balice.SirenMan;
+				PRODUCT_BUNDLE_IDENTIFIER = com.balice.RumbleMan;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -308,14 +333,15 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = BYK3FT7TFH;
 				INFOPLIST_FILE = SirenMan/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.balice.SirenMan;
+				PRODUCT_BUNDLE_IDENTIFIER = com.balice.RumbleMan;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
